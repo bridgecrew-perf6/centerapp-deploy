@@ -1,2 +1,2 @@
-@Library('Mira-college-shared') _
+@Library('mira-story-shared') _
 centerApp 'https://github.com/dilanAzu/centerApp-deploy'
